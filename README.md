@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinaykumarng
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me vinaykumarng1092@gmail.com
 - 😄 Pronouns: He/Him
